@@ -8,12 +8,8 @@ Contains shell variables and expansions
 
 3-paths A script that counts the number of directories in the PATH
 
-3-paths A script that counts the number of directories in the PATH
-
-3-paths A script that counts the number of directories in the PATH
-
 4-global_variables  A script that lists environment variables
 
 5-local_variables A script that lists all local vocal variables and environment variables and functions
 
-
+6-create_local_variables A script that creates a new local variable

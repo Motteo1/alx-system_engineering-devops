@@ -34,4 +34,5 @@ Contains shell variables and expansions
 
 102-odd A script that prints every other line from the input, starting with the first line.
 
+103-water_and_stir A script that adds the two numbers stored in the envt variables WATER and STIR and prints the result.
 

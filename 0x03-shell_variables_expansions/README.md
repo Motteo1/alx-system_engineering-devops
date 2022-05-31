@@ -28,4 +28,6 @@ Contains shell variables and expansions
 
 13-print_float S script that prints a number with two decima places followed by a new line.
 
+100-decimal_to_hexadecimal A script that converts a number from  from base 10 to base 16
+
 

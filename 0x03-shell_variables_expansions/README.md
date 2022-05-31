@@ -17,3 +17,7 @@ Contains shell variables and expansions
 7-create_global_variable A script that creates a new global variable
 
 8-true_knowledge A script that prints the result of the addition of 128 with the value in the envt variable TRUEKNOWLEDGE followed by a new line
+
+9-divide_and_rule A script that prints the result of POWER and divided by DIVIDE followed by a new line.
+
+

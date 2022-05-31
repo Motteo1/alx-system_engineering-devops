@@ -6,4 +6,10 @@ Contains shell variables and expansions
 
 2-path Add /action to the PATH. /action should be the last directory the shell looks into while looking for a program
 
+3-paths A script that counts the number of directories in the PATH
+
+3-paths A script that counts the number of directories in the PATH
+
+3-paths A script that counts the number of directories in the PATH
+
 

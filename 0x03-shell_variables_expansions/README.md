@@ -20,4 +20,6 @@ Contains shell variables and expansions
 
 9-divide_and_rule A script that prints the result of POWER and divided by DIVIDE followed by a new line.
 
+10-love_exponent_breath A script that displays the result of BREATH to the power LOVE
+
 

@@ -11,7 +11,9 @@
 5. Using `while` loop; `if` 4th line print a, `else` 8th line print b
 6. Using `while` loop; print according to `case`
 7. Using `while` loop; print hours and minutes
-
+8. `for` contents in current directory, print names cutting initial field
+9. Display info about a file: exists? empty? regular file?
+10. FizzBuzz
 
 ### Environment
 * Language: Bash scripts

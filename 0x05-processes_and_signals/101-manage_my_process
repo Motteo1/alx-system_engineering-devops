@@ -9,7 +9,7 @@ startLoop_n_createFile()
     ./manage_my_process &
     echo "$!" > "$tmpfile"
 }
-killLoop_n_rmfile()
+killLoop_n_rmFile()
 {
     #kill "$(cat "$tmpfile")"
     sudo pkill -f "./manage_my_process"

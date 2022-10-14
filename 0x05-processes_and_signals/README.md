@@ -7,7 +7,8 @@
 1. list processes
 2. Display pid's related to bash using `ps`
 3. Display pid's related to bash using `pgrep`
-4. 
+4. Create infinite loop with sleep that Ctrl-C can kill
+
 
 ### Environment
 * Language: Bash scripta

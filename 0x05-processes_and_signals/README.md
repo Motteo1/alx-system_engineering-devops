@@ -8,7 +8,7 @@
 2. Display pid's related to bash using `ps`
 3. Display pid's related to bash using `pgrep`
 4. Create infinite loop with sleep that Ctrl-C can kill
-
+5. Script to kill file 4 in different terminal
 
 ### Environment
 * Language: Bash scripta

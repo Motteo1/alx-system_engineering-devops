@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-#Match "hbttn, hbtttn, hbttttn, hbtttttn"
+# Match "hbttn, hbtttn, hbttttn, hbtttttn, hbttttttn"
 
-puts ARGV[0].scan(/hbt{2,5}n/).join
+puts ARGV[0].scan(/hbt{2,6}n/).join

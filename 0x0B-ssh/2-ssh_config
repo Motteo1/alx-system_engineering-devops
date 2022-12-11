@@ -1,0 +1,6 @@
+# SSH client configuration to use the private ey ~/.ssh/school
+# SSH client configuration to refuse to authenticate using a password
+
+Host 100.25.140.89
+     PasswordAuthentication no
+     IdentifyFile ~/.ssh/school

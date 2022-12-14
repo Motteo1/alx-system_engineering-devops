@@ -1,5 +1,6 @@
 ### Web Server
 
+<<<<<<< HEAD
 ##### File description:
 0. transfer local file to the server
 1. skeleton script to install nginx server and update landing page
@@ -24,3 +25,6 @@
 ***
 #### Authors
 Motteo1
+=======
+####
+>>>>>>> c62a2dad506d5368b601e95e2459ea3ae315ac68
